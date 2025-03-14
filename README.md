@@ -20,14 +20,8 @@ Check out the live version here: **[NupTalk Live](https://nuptalk.onrender.com/l
 - **State Management**: Zustand  
 - **Authentication**: JWT  
 
-## 📸 Screenshots  
-(Attach some UI screenshots here)
-
 ## 🤝 Contributing  
-Feel free to submit pull requests or open issues to improve NupTalk!  
-
-## 📜 License  
-This project is licensed under the **MIT License**.  
+Feel free to submit pull requests or open issues to improve NupTalk!   
 
 ---
 
